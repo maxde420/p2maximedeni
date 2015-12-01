@@ -45,11 +45,11 @@
 					</tr>
 					<tr>
 						<td>Cellulaire</td>
-						<td>220 $</td>
+						<td>450 $</td>
 					</tr>
 					<tr>
 						<td>Tablette</td>
-						<td>600 $</td>
+						<td>975 $</td>
 					</tr>					
 				</table>
 				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis nec nisi vel arcu vehicula scelerisque ac sit amet nulla. Curabitur pretium massa ac est efficitur faucibus. Morbi interdum at nisi ut cursus. Donec pharetra nulla vel varius iaculis. Vivamus vulputate faucibus lectus non porta.</p><br>
