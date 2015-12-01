@@ -1,0 +1,89 @@
+#logo{
+	padding-top: 250px;
+	position: absolute;
+    left:50%;
+    margin-left:-100px;
+}
+.section1{
+	position: relative;
+	height: 800px;
+	background-repeat: no-repeat;
+	background-position: center top;	
+	background-size: 100%;
+	background-image: url(../img/bg_section1.jpg); 
+}
+.section2{
+	position: relative;
+	height: 700px;
+	background-repeat: no-repeat;
+	background-position: center top;
+	background-size: 100%;
+	background-image: url(../img/bg_section2.jpg);
+}
+.section3{
+	position: relative;
+	height: 800px;
+	background-repeat: no-repeat;
+	background-position: center top;
+	background-size: 100%;
+	background-image: url(../img/bg_section3.jpg);
+}
+.sociaux{
+	margin: 0 auto;
+	padding: 5px 20px;
+	top: 20px;
+	right: 0;
+	list-style-type: none;
+	position: fixed;
+}
+.boiteTexte{
+	font-family: Arial, Sans-Serif;
+	position: relative;
+	top: 50px;
+	left: 80px;
+	text-align: justify;
+	width: 620px;
+	padding: 30px 40px;
+	background-color: rgba(255,255,255,0.6);
+	margin-bottom: 35px;
+}
+h2{
+	color: #333;
+	font-weight: normal;
+	font-variant: small-caps;
+	font-size: 30px;
+	font-family: Georgia, Serif;
+	margin: 0;
+}
+.bouton-section{
+	padding: 15px 50px;
+	font-family: Arial,Sans-Serif;
+	font-size: 16px;
+	text-transform: uppercase;
+	text-decoration: none;
+	background-color: #ff1717;
+	color: #fff;
+}
+.bouton-section:hover{
+	background-color: #ff7171;
+}
+.bouton-section:visited{
+	color: #fff;
+}
+#slogan{
+	font-family: Arial, Sans-Serif;
+	position: relative;
+	top: 50px;
+	left: 80px;
+	font-size: 50px;
+	color: #f3ebd9;
+	margin-bottom: 100px;
+}
+table, td, tr{
+	margin: 20px 0;
+	border: 1px solid black;
+	border-collapse: collapse;
+	border-color: #999;
+	text-align: center;
+	padding: 10px 15px;
+}
