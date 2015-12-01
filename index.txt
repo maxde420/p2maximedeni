@@ -27,7 +27,7 @@
 		<!--Debut section 2 -->
 		<div class="section2">
 			<div class="boiteTexte">
-				<h2>Lorem ipsum</h2>
+				<h2>Lorem ipsum Lorem ipsum Lorem</h2>
 				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis nec nisi vel arcu vehicula scelerisque ac sit amet nulla. Curabitur pretium massa ac est efficitur faucibus. Morbi interdum at nisi ut cursus. Donec pharetra nulla vel varius iaculis. Vivamus vulputate faucibus lectus non porta. Nunc ut massa in nibh pharetra euismod. Morbi in sagittis lorem. Ut et finibus neque. Maecenas vel maximus mauris. Nam gravida placerat mauris, ut egestas ligula consectetur vitae. Ut venenatis lacinia ex.</p><br>
 				<a href="https://google.ca/" target="_blank" class="bouton-section" >Continuer à lire <img src="img/flecheD.png" alt="fleche" style="vertical-align: middle;"></a>
 			</div>
