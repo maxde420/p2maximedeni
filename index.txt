@@ -50,7 +50,11 @@
 					<tr>
 						<td>Tablette</td>
 						<td>975 $</td>
-					</tr>					
+					</tr>	
+					<tr>
+						<td>Portable</td>
+						<td>1200 $</td>
+					</tr>				
 				</table>
 				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis nec nisi vel arcu vehicula scelerisque ac sit amet nulla. Curabitur pretium massa ac est efficitur faucibus. Morbi interdum at nisi ut cursus. Donec pharetra nulla vel varius iaculis. Vivamus vulputate faucibus lectus non porta.</p><br>
 				<a href="https://google.ca/" target="_blank" class="bouton-section" >En savoir plus <img src="img/flecheD.png" alt="fleche" style="vertical-align: middle;"></a>
