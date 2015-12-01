@@ -37,7 +37,7 @@
 		<div class="section3">
 			<div id="slogan">We design!</div>
 			<div class="boiteTexte">
-				<h2>Lorem ipsum</h2><br>
+				<h2>SERVICE TÉLÉPHONIQUE</h2><br>
 				<img src="img/device.png" alt="device"><br>
 				<table>
 					<tr>
